@@ -1,0 +1,129 @@
+
+  
+  .formStyle { 
+    background-color: #8487bb;
+    padding: 20px; 
+    width: 400px; 
+    margin-bottom: 20px; 
+    border-bottom-width: 1px; 
+    border-bottom-style: solid; 
+    border-bottom-color: #ecf0f1; 
+    border-top-style: none; 
+    border-right-style: none; 
+    border-left-style: none; 
+    font-size: 1em;
+    font-weight: 100;
+    color: #ffffff;
+  }
+  
+  .formButton {
+    
+      background-color:#ffffff;
+      display:inline-block;
+      color:#6951c0;
+      font-size:28px;
+      font-weight: 500;
+      padding:6px 24px;
+    margin-top: 15px;
+    margin-right: 60px;
+      text-decoration:none;
+  }
+  
+  .formButton:hover {
+      background-color: #6d68b3;
+    color:#ffffff;
+  }
+  
+  .formButton:active {
+      position:relative;
+      top:3px;
+  }
+  
+  /*To remove the outline that appears on clicking the input textbox*/
+  input:focus {
+    outline: none;
+  }
+  
+  /* To format the placeholder text color */
+  ::-webkit-input-placeholder {
+     color: #ecf0f1;
+  }
+  
+  :-moz-placeholder { /* Firefox 18- */
+     color: #ecf0f1;  
+  }
+  
+  ::-moz-placeholder {  /* Firefox 19+ */
+     color: #ecf0f1;  
+  }
+  
+  :-ms-input-placeholder {  
+     color: #ecf0f1;  
+  }
+
+  /* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .aa{
+    margin-top: -90px;
+    margin-left: 1000px;
+  }
+  .inp2 { 
+    background-color: #753131;
+    padding: 20px; 
+    width: 200px; 
+    margin-bottom: 20px; 
+    border-bottom-width: 1px; 
+    border-bottom-style: solid; 
+    border-bottom-color: #ecf0f1; 
+    border-top-style: none; 
+    border-right-style: none; 
+    border-left-style: none; 
+    font-size: 1em;
+    font-weight: 100;
+    color: #ffffff;
+  }
